@@ -1,0 +1,38 @@
+{
+    "myBudget": [
+        {
+            "title": "Eat out",
+            "budget": 100
+        },
+        {
+            "title": "Rent",
+            "budget": 375
+        },
+        {
+            "title": "Grocery",
+            "budget": 110 
+        },
+        {
+            "title": "Gym",
+            "budget": 40
+        },
+        {
+            "title": "Vacation",
+            "budget": 300
+        },
+        {
+            "title": "Fuel" ,
+            "budget": 90
+        },
+        {
+            "title": "Car Insurance" ,
+            "budget": 45
+        },
+        {
+            "title": "Health Insurance" ,
+            "budget": 100
+        }
+
+
+    ]
+}
